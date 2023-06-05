@@ -1,7 +1,7 @@
 <h3 align="center">☢️ Phishing Links Collection ☢️</h3>
 <p>&nbsp;</p>
 <h1 align="center">⚠️⚠️⚠️ ATTENTION ⚠️⚠️⚠️</h1>
-<h1 align="center"><strong>Do not use the following URLs to login, register or any actions‼️</strong></h1>
+<h1 align="center"><strong>🚨 Do not use the following URLs to login, register or any actions‼️</strong></h1>
 
 <strong>📢 Don't know what phishing is? How to protect yourself?</strong> 👉 Read Our Phishing Prevention **[Guide](https://tor.watch/prevention.html)**
 <br />
